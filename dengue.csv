@@ -1,0 +1,109 @@
+"idade 
+",genero ,estado_civil,quantas_pessoas_reside,reside_em,zona,bairro,area,proximo_terreno_baldio,alagamento,cohecimento_sobre_dengue,conhece_os_sintomas,como_prevenir_dengue,medidas_caseiras
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+41 à 59 anos,Masculino,Casado,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Não,Sim,Sim,Sim,Talvez
+21 à 40 anos,Masculino,Casado,1 à 3,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Não,Sim,Sim,Não,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Não,Sim,Sim,Sim,Talvez
+21 à 40 anos,Masculino,Solteiro,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Não,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,União estável,1 à 3,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+41 à 59 anos,Feminino,União estável,1 à 3,Casa,Zona Sul,Adhemar Garcia,Urbana,Desconheço,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,4 à 6,Casa,Zona Sul,Adhemar Garcia,Urbana,Sim,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Sul,Anita Garibaldi,Urbana,Desconheço,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Sul,Anita Garibaldi,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,Solteiro,7+,Casa,Zona Sul,Anita Garibaldi,Rural,Não,Não,Sim,Sim,Não,Não
+11 à 20 anos,Feminino,Solteiro,1 à 3,Apartamento,Centro,Atiradores,Urbana,Não,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,4 à 6,Apartamento,Zona Norte,Aventureiro,Urbana,Não,Não,Sim,Sim,Sim,Talvez
+21 à 40 anos,Feminino,União estável,4 à 6,Casa,Zona Norte,Aventureiro,Urbana,Sim,Desconheço,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,4 à 6,Casa,Zona Norte,Aventureiro,,Não,Não,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Norte,Aventureiro,Urbana,Sim,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Casado,4 à 6,Casa,Zona Norte,Aventureiro,Urbana,Não,Sim,Sim,Sim,Não,Talvez
+41 à 59 anos,Feminino,União estável,1 à 3,Geminado,Zona Norte,Aventureiro,Urbana,Desconheço,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Solteiro,1 à 3,Casa,Zona Norte,Aventureiro,,Não,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,1 à 3,Casa,Zona Norte,Aventureiro,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Solteiro,1 à 3,Casa,Zona Norte,Aventureiro,,,Sim,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,União estável,4 à 6,Casa,Zona Norte,Aventureiro,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,4 à 6,Casa,Zona Leste,Boa Vista,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,União estável,1 à 3,Casa,Zona Sul,Boehmerwald,Urbana,Sim,Desconheço,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Centro,Centro,Urbana,Não,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Centro,Centro,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Centro,Centro,Urbana,Não,Sim,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Leste,Comasa,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Leste,Comasa,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Leste,Comasa,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Masculino,Casado,1 à 3,Casa,Zona Leste,Comasa,Urbana,Sim,Não,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Oeste,Costa e Silva,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,União estável,1 à 3,Casa,Zona Oeste,Costa e Silva,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+11 à 20 anos,Masculino,Solteiro,1 à 3,Casa,Zona Oeste,Costa e Silva,Urbana,Desconheço,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,1 à 3,Casa,Zona Oeste,Costa e Silva,Urbana,Não,Sim,Sim,Sim,Sim,Não
+60 <,Masculino,Casado,1 à 3,Casa,Zona Leste,Espinheiros,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Leste,Espinheiros,Urbana,Desconheço,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Casa,Zona Leste,Espinheiros,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Sul,Fátima,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Fátima,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,7+,Casa,Zona Sul,Floresta,Urbana,Não,Sim,Sim,Sim,Sim,Não
+41 à 59 anos,Feminino,Casado,4 à 6,Apartamento,Zona Sul,Floresta,Urbana,Não,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Floresta,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Leste,Guanabara,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,Casado,1 à 3,Casa,Zona Leste,Guanabara,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Norte,Iririú,Urbana,Não,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,União estável,1 à 3,Apartamento,Zona Norte,Iririú,Urbana,Não,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Outro,Casado,4 à 6,Casa,Zona Norte,Jardim Iririú,Rural,Sim,Sim,Sim,Sim,Sim,
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Norte,Jardim Paraíso,Rural,Não,Desconheço,Sim,Sim,Sim,Não
+21 à 40 anos,Masculino,Casado,1 à 3,Casa,Zona Norte,Jardim Paraíso,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Norte,Jardim Sophia,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,Solteiro,1 à 3,Casa,Zona Sul,Jarivatuba,Urbana,Não,Desconheço,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Jarivatuba,Urbana,Não,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Jarivatuba,Urbana,Não,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Jarivatuba,Urbana,Sim,Não,Sim,Sim,Sim,Talvez
+11 à 20 anos,Masculino,Solteiro,1 à 3,Casa,Zona Sul,Jativoca,Rural,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,Solteiro,1 à 3,Casa,Zona Leste,João Costa,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,4 à 6,Casa,Zona Oeste,Morro do Meio,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Oeste,Morro do Meio,,Não,Sim,Sim,Sim,Sim,Talvez
+11 à 20 anos,Masculino,Solteiro,1 à 3,Casa,Zona Sul,Nova Brasília,Urbana,Sim,Sim,Sim,Não,Não,Não
+11 à 20 anos,Feminino,União estável,1 à 3,Apartamento,Zona Sul,Nova Brasília,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Nova Brasília,Urbana,Não,Não,Sim,Sim,Sim,Não
+41 à 59 anos,Feminino,Viúvo,1 à 3,Casa,Zona Sul,Nova Brasília,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Nova Brasília,Urbana,Não,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Nova Brasília,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Paranaguamirim,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Masculino,Solteiro,1 à 3,Casa,Zona Sul,Paranaguamirim,Urbana,Sim,Não,Sim,Sim,Sim,Talvez
+21 à 40 anos,Masculino,Casado,1 à 3,Casa,Zona Sul,Paranaguamirim,Urbana,Não,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Parque Guarani,Rural,Não,Não,Sim,Sim,Sim,Talvez
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Sul,Petrópolis,Urbana,Sim,Sim,Sim,Sim,Sim,Talvez
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Sul,Petrópolis,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Petrópolis,Rural,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Sul,Petrópolis,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Petrópolis,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,4 à 6,Casa,Zona Leste,Saguaçu,Urbana,Não,Não,Sim,Sim,Sim,Talvez
+11 à 20 anos,Masculino,Solteiro,4 à 6,Casa,Zona Leste,Saguaçu,Urbana,Sim,Não,Sim,Sim,Sim,Não
+11 à 20 anos,Masculino,Solteiro,4 à 6,Casa,Zona Leste,Saguaçu,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Sim,Sim,Sim,Sim,Talvez
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Santa Catarina,Rural,Não,Não,Sim,Sim,Sim,Não
+41 à 59 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Masculino,Casado,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+60 <,Masculino,União estável,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,União estável,1 à 3,Geminado,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+41 à 59 anos,Masculino,Casado,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Masculino,União estável,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Masculino,Casado,1 à 3,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Casado,4 à 6,Geminado,Zona Sul,Santa Catarina,Urbana,Sim,Sim,Sim,Sim,Sim,Talvez
+21 à 40 anos,Feminino,Casado,1 à 3,Geminado ,Zona Sul,Santa Catarina,Urbana,Sim,Não,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Santa Catarina,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,União estável,4 à 6,Casa,Zona Norte,Santo Antônio,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Norte,Santo Antônio,Urbana,Sim,Sim,Sim,Sim,Sim,Sim
+41 à 59 anos,Feminino,Casado,4 à 6,Casa,Zona Sul,Ulysses Guimarães,Urbana,Não,Não,Sim,Sim,Sim,Talvez
+41 à 59 anos,Feminino,Casado,4 à 6,Casa,Zona Sul,Ulysses Guimarães,Urbana,Não,Não,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Casado,1 à 3,Casa,Zona Sul,Ulysses Guimarães,Rural,Sim,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Divorciado,1 à 3,Casa,Zona Sul,Ulysses Guimarães,Urbana,Não,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Feminino,Solteiro,1 à 3,Apartamento,Zona Sul,Ulysses Guimarães,Urbana,Sim,Desconheço,Sim,Sim,Sim,Talvez
+41 à 59 anos,Feminino,Solteiro,1 à 3,Casa,Zona Sul,Ulysses Guimarães,Urbana,Sim,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,Solteiro,1 à 3,Casa,Zona Sul,Ulysses Guimarães,Urbana,Sim,Desconheço,Sim,Sim,Sim,Não
+11 à 20 anos,Feminino,Solteiro,4 à 6,Casa,Zona Sul,Ulysses Guimarães,Urbana,Sim,Sim,Sim,Sim,Sim,Não
+21 à 40 anos,Feminino,Solteiro,1 à 3,Casa,Zona Oeste,Vila Nova,Urbana,Não,Não,Sim,Sim,Sim,Sim
+11 à 20 anos,Feminino,União estável,1 à 3,Apartamento,Zona Oeste,Vila Nova,Urbana,Desconheço,Não,Sim,Sim,Sim,Sim
+21 à 40 anos,Masculino,União estável,1 à 3,Apartamento,Zona Oeste,Vila Nova,Urbana,Não,Desconheço,Sim,Sim,Sim,Sim
+41 à 59 anos,Masculino,Casado,4 à 6,Apartamento,Zona Oeste,Vila Nova,Urbana,Sim,Não,Sim,Sim,Sim,Não
+41 à 59 anos,Feminino,Casado,1 à 3,Casa,Zona Oeste,Vila Nova,Urbana,Sim,Sim,Sim,Sim,Não,Não
